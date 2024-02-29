@@ -1,0 +1,230 @@
+    1  git config --global.name "Mpho Nhlapo"
+    2  clear
+    3  git config --global user.name "Mpho Nhlapo"
+    4  git config --global user.name
+    5  git --global user.email "mpho686@GMAIL.com"
+    6  git config --global user.email "mpho686@gmail.com"
+    7  git config --global user.email
+    8  git config --global credential.helper cache
+    9  git clone
+   10  git clone https://github.com/Mphonhlapo/alx-pre_course.git
+   11  git status
+   12  pwd
+   13  mkdir Gugu
+   14  ls
+   15  cd gug
+   16  cd gugu
+   17  ls
+   18  pwd
+   19  echo "Teaching git operands" > README.md
+   20  ls
+   21  clear
+   22  git add .
+   23  git init
+   24  git add .
+   25  git remote add origin https://github.com/Mphonhlapo/Gugu.git
+   26  sudo apt install openssh-server
+   27  git clone https://github.com/Mphonhlapo/Gugu.git
+   28  ls
+   29  touch sihle
+   30  git add .
+   31  git status
+   32  git add Gugu/
+   33  git status
+   34  git rm --cached README.md
+   35  git status
+   36  git add Gugu/ README.md sihle
+   37  git stauts
+   38  clear
+   39  git status
+   40  cd Gugu/
+   41  ls
+   42  git status
+   43  cd ..
+   44  git status
+   45  git add .
+   46  git add Gugu/
+   47  git add README.md
+   48  git status
+   49  git add sihle
+   50  kgit status
+   51  git status
+   52  git add gugu
+   53  git status
+   54  git add Gugu/
+   55  git revert Gugu/
+   56  git status
+   57  ls
+   58  cd Gugu/
+   59  ls
+   60  git status
+   61  git add .
+   62  cd ..
+   63  git status
+   64  git add Gugu/
+   65  ls
+   66  cd alx-pre_course
+   67  ls
+   68  cd ../
+   69  clear
+   70  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   71  cd
+   72  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   73  s
+   74  ls
+   75  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   76  clear
+   77  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   78  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   79  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   80  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   81  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   82  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   83  lear
+   84  ssh 52fe139940bf@52fe139940bf.85438db0.alx-cod.online
+   85  clear
+   86  man 3 getline
+   87  man 3
+   88  ssh 36b7319de596@36b7319de596.0b38a2cb.alx-cod.online
+   89  ssh 36b7319de596@36b7319de596.0b38a2cb.alx-cod.online
+   90  git clone https://github.com/Umuzi-org/Mpho-Nhlapo-219-level-1-programming-katas-javascript.git
+   91  ls
+   92  clear
+   93  git clone git@github.com:Umuzi-org/Mpho-Nhlapo-219-level-1-programming-katas-javascript.git
+   94  ls
+   95  clear
+   96  gh repo clone Umuzi-org/Mpho-Nhlapo-219-level-1-programming-katas-javascript
+   97  git clone https://github.com/Umuzi-org/Mpho-Nhlapo-219-level-1-programming-katas-javascript.git
+   98  ls
+   99  clear
+  100  cd  Mpho-Nhlapo-219-level-1-programming-katas-javascript/
+  101  ls
+  102  git checkout main
+  103  git pull
+  104  git checkout -b task/1
+  105  vi task1.js
+  106  git add .
+  107  git commit -m "first tas1 commit"
+  108  git push
+  109  git push --set-upstream origin task/1
+  110  git checkout main
+  111  git pull
+  112  git checkout -b task/2
+  113  vi task2.js
+  114  git add .
+  115  git commit -m "first task2 commit"
+  116  git push
+  117  git push --set-upstream origin task/2
+  118  clear
+  119  git checkout main
+  120  git pull
+  121  git checkout -b task/3
+  122  vi task3.js
+  123  git add .
+  124  git commit -m "first task3 commit"
+  125  git push
+  126  git push --set-upstream origin task/3
+  127  clear
+  128  git checkout main
+  129  git pul
+  130  git pull
+  131  git checkout -b task/4
+  132  vi task4.js
+  133  git add .
+  134  git commit -m "1st task4 commit"
+  135  git push
+  136  git push --set-upstream origin task/4
+  137  git checkout main
+  138  git pull
+  139  git checkout -b task/5
+  140  vi task5.js
+  141  git add .
+  142  git commit -m "1sr task5 commit"
+  143  git push --set-upstream origin task/5
+  144  clear
+  145  git checkout main
+  146  git pull
+  147  git checkout -b task/6
+  148  vi task6.js
+  149  git add .
+  150  git commit -m "1st task6 commit"
+  151  git push --set-upstream origin task/6
+  152  git checkout main
+  153  git pull
+  154  git checkout -b task/7
+  155  vi task7.js
+  156  git add .
+  157  git commit -m "1st task7 commit"
+  158  git push --set-upstream origin task/7
+  159  cd ..
+  160  ls
+  161  git clone https://github.com/Umuzi-org/Mpho-Nhlapo-606-tilde-project-tutorial-how-repo-projects-work-.git
+  162  ls
+  163  cd  Mpho-Nhlapo-606-tilde-project-tutorial-how-repo-projects-work-/ 
+  164  ls
+  165  rm important.md
+  166  git add .
+  167  git commit -m "cleaning my main branch, because I mistakenly merged changes to it before my pull request was approved by atleast 2 reviewers"
+  168  git push
+  169  ls
+  170  git checkout main
+  171  git checkout -b newbranch
+  172  vi important.md
+  173  git add .
+  174  git commit -m "requesting a pull request rightfully"
+  175  git push --set-upstream origin newbranch
+  176  clear
+  177  cd ..
+  178  mkdir git-basic-exercises
+  179  cd git-basic-exercises
+  180  ls -a
+  181  ls
+  182  clear
+  183  git init
+  184  ls -a
+  185  git status
+  186  git log
+  187  touch README.md
+  188  git log
+  189  ls
+  190  git add .
+  191  git commit -m"initial commit"
+  192  git log
+  193  q
+  194  nano README.md
+  195  cat README.md
+  196  git status
+  197  git add .
+  198  git commit -m"second commit"
+  199  nano README.md
+  200  git add .
+  201  git commit -m"third commit"
+  202  git log
+  203  git checkout 153c174032019804d5ebbe060d538e85abe0671d
+  204  cat README.md
+  205  git checkout main
+  206  cat README.md
+  207  git branch -a
+  208  git checkout master
+  209  cat README.md
+  210  git branch
+  211  ls
+  212  git branch milkshake-flavours
+  213  git branch
+  214  git checkout milkshake-flavours
+  215  git branch
+  216  nano milkshakes.md
+  217  git status
+  218  git add .
+  219  git commit -m "added initial flavours"
+  220  git log
+  221  checkout main
+  222  checkout master
+  223  git checkout main
+  224  git checkout master
+  225  git log
+  226  git branch
+  227  git branch history
+  228  ls
+  229  git branch
+  230  history > history.txt
